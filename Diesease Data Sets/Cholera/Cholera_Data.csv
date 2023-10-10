@@ -1,4 +1,4 @@
-id,Gender,Diarrhea,Dehydration,Abdominal Cramps,Irritability,Restlessness,Lethargy,Vomiting,Severity
+id,Gender,Diarrhea,Dehydration,Abdominal_ Cramps,Irritability,Restlessness,Lethargy,Vomiting,Severity
 1,Male,Yes,Yes,No,No,Yes,Yes,No,High
 2,Male,No,Yes,No,Yes,No,No,Yes,Medium
 3,Male,Yes,No,No,No,Yes,Yes,Yes,High
