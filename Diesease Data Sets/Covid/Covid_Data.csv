@@ -1,4 +1,4 @@
-id,Gender,Diarrhea,Fever,Cough,Headache,Sore Throat,Body Ache,Vomiting,Severity
+id,Gender,Diarrhea,Fever,Cough,Headache,Sore_Throat,Body_Ache,Vomiting,Severity
 1,Female,Yes,No,No,Yes,Yes,No,Yes,High
 2,Female,No,No,No,No,No,No,No,Negative
 3,Male,No,No,No,Yes,No,No,No,Negative

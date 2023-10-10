@@ -1,4 +1,4 @@
-id,Gender,Akinesia,Tremors,Postural Instability,Rigidity,Cognitive Challenge,Insomnia,Constipation,Severity
+id,Gender,Akinesia,Tremors,Postural_Instability,Rigidity,Cognitive_Challenge,Insomnia,Constipation,Severity
 1,Male,No,Yes,No,Yes,Yes,No,No,Medium
 2,Male,Yes,No,No,Yes,No,Yes,Yes,High
 3,Male,No,Yes,No,Yes,Yes,Yes,No,High
