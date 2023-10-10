@@ -1,4 +1,4 @@
-id,Gender,Cold,Fever,Sweating,Headache,Muscle Pain,Nausea,Vomiting,Severity
+id,Gender,Cold,Fever,Sweating,Headache,Muscle_Pain,Nausea,Vomiting,Severity
 1,Male,Yes,No,No,No,Yes,No,Yes,Medium
 2,Female,Yes,No,No,No,Yes,Yes,Yes,High
 3,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Critical
