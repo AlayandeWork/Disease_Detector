@@ -1,4 +1,4 @@
-id,Gender,Chronic Diarrhea,Skin Irritation,Genital Ulcer,Persistent Fatigue,Severe Headache,Weight Loss,Vomiting,Severity
+id,Gender,Chronic_Diarrhea,Skin_Irritation,Genital_Ulcer,Persistent_Fatigue,Severe_Headache,Weight_Loss,Vomiting,Severity
 1,Female,Yes,Yes,Yes,No,No,Yes,Yes,High
 2,Male,No,No,Yes,Yes,Yes,Yes,No,High
 3,Female,Yes,No,No,No,Yes,No,No,Low
